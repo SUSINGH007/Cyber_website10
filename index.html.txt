@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Cybersecurity blog and portfolio of [Your Name]" />
+  <title>[Your Name] | Cybersecurity Enthusiast</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>[Your Name]</h1>
+    <p>Cybersecurity | Ethical Hacking | CTFs | Research</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#blog">Blog</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>I’m a cybersecurity enthusiast with a passion for ethical hacking, digital forensics, and threat hunting. I participate in CTFs and enjoy reverse engineering challenges.</p>
+    </section>
+
+    <section id="blog">
+      <h2>Blog</h2>
+      <article>
+        <h3>CTF Writeup: TryHackMe - Basic Pentesting</h3>
+        <p>A walkthrough on exploiting a vulnerable VM using Nmap, Hydra, and manual enumeration.</p>
+        <a href="#">Read More →</a>
+      </article>
+      <article>
+        <h3>Getting Started with Burp Suite</h3>
+        <p>An intro to intercepting HTTP traffic and testing for web app vulnerabilities.</p>
+        <a href="#">Read More →</a>
+      </article>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li><strong>AutoRecon Script:</strong> A Python tool that automates initial recon for CTFs. <a href="#">View on GitHub</a></li>
+        <li><strong>XSS Payload Tester:</strong> Web tool to test common XSS payloads. <a href="#">Demo</a></li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+      <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 [Your Name]. All rights reserved.</p>
+  </footer>
+</body>
+</html>
